@@ -1,0 +1,16 @@
+noor-islamic-ap/
+├── .github/
+│   └── workflows/
+│       └── build-apk.yml
+├── app/
+│   ├── build.gradle
+│   └── src/
+│       └── main/
+│           ├── AndroidManifest.xml
+│           └── java/
+│               └── com/
+│                   └── noor/
+│                       └── islamic/
+│                           └── MainActivity.java
+├── build.gradle
+└── settings.gradle
